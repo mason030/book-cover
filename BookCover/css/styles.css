@@ -1,16 +1,16 @@
 @font-face {
 	font-family: 'Dominican';
-	src: url("fonts/DOMINICA.ttf");
+	src: url("fonts/DOMINICA.ttf") format('truetype');
 }
 
 @font-face {
 	font-family: 'Berylium';
-	src: url("fonts/beryliumrgit.ttf");
+	src: url("fonts/beryliumrgit.ttf") format('truetype');
 }
 
 @font-face {
 	font-family: 'StarAvenue';
-	src: url("fonts/staravenue.ttf");
+	src: url("fonts/staravenue.ttf") format('truetype');
 }
 
 html,body {
